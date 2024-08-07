@@ -12,9 +12,9 @@ echo 'La multiplicaion es: ' . ($numero1 * $numero2);
 echo '<br/>';
 echo 'La division es: ' . ($numero1 / $numero2);
 echo '<br/>';
-echo 'El reste de una division es: ' . ($numero1 % $numero2);
+echo 'El resto de una division es: ' . ($numero1 % $numero2);
 echo '<br/>';
-echo 'El reste de una division es: ' . ($numero3 % $numero2);
+echo 'El resto de una division es: ' . ($numero3 % $numero2);
 echo '<br/>';
 
 // Operadores de incremente y decremento
